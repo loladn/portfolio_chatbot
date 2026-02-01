@@ -41,6 +41,26 @@ def rechercher_dans_docs(query: str) -> str:
     except Exception as e:
         return f"Erreur lors de la recherche : {e}"
 
+# nouvelle fonctionnalité de récupération des coordonnées
+@function_tool
+def laisser_coordonnees(nom: str, email: str, motif: str) -> str:
+    """
+    Permet à l'utilisateur de laisser ses coordonnées pour être recontacté.
+    
+    Args:
+        nom: Le nom de la personne
+        email: L'email de la personne
+        motif: La raison du contact (stage, alternance, info...)
+        
+    Returns:
+        Confirmation de la prise en compte.
+    """
+    # Dans un vrai projet, on enverrait un mail ici via une API (SendGrid, etc.)
+    # Ici on simule l'action en affichant dans la console
+    print(f"--- NOUVEAU CONTACT --- Nom: {nom}, Email: {email}, Motif: {motif}")
+    return f"C'est noté ! J'ai bien enregistré les coordonnées de {nom}. Lola recevra le message pour : {motif}."
+
+
 mon_agent = Agent(
     name="Chatbot-Lola",
     instructions="""Tu es l'assistant virtuel du portfolio de Lola Dixneuf.
@@ -60,7 +80,7 @@ Comment répondre aux questions :
 Important : La recherche utilise l'embedding sémantique, donc passe la question telle quelle à l'outil.
 """,
     model="gpt-4.1-nano",
-    tools=[rechercher_dans_docs]
+    tools=[rechercher_dans_docs, laisser_coordonnees]
 )
 
 if __name__ == "__main__":
