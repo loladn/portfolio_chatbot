@@ -1,6 +1,5 @@
 import os
 import glob
-from agents import function_tool
 from dotenv import load_dotenv
 from upstash_vector import Index
 
@@ -9,11 +8,9 @@ load_dotenv()
 
 index = Index(url=os.getenv("UPSTASH_VECTOR_REST_URL"), token=os.getenv("UPSTASH_VECTOR_REST_TOKEN"))
 
-@function_tool
 def main():
     """ fonction principale qui trouve les fichiers et renvoie les données"""
     files = glob.glob("data/*.md")
-
     for file in files:
         with open(file, "r", encoding="utf-8") as f:
             contenu = f.read()
@@ -25,7 +22,7 @@ def main():
         for i, texte in enumerate(chunks_base):
             if texte.strip():
                 texte_clean = "#" + texte.strip()
-            
+                
                 vect.append({"id": f"{file}_{i}", "data": texte_clean, "metadata": {"source": file}})
 
         if vect:

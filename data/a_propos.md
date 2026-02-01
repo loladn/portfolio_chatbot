@@ -1,12 +1,12 @@
 # Qui est Lola Dixneuf
 
 ## Présentation générale
-**Lola Dixneuf** - 19 ans - Étudiante en science des données à Niort.
+**Lola Dixneuf** - 19 ans - Étudiante en 3ème année en BUT Science des données à Niort.
 
 Personne curieuse, ouverte aux nouvelles expériences, et motivée à s'impliquer dans des projets collectifs.
 
 ## Formation actuelle
-**2ème année de BUT Science des Données** à l'IUT de Poitiers (site de Niort)
+**ACtuellement en 3ème année de BUT Science des Données** à l'IUT de Poitiers (site de Niort)
 
 En alternance chez **SNCF Voyageurs - TER Centre Val de Loire** à Tours
 
@@ -40,19 +40,11 @@ Intérêt marqué pour les **Systèmes d'Information Géographiques (SIG)** et l
 - Tests statistiques et analyses bivariées
 
 ## Autres passions
-- Sport : Nouvelles activités physiques
+- Sport : Musculation, marche active 
 - Échanges sur la société, la culture et la communication
+- Jeux de société coopératifs et stratégiques
 - Découverte de lieux et détails du quotidien
 
-## Bilan de la 2ème année de BUT
-
-### Cours et apprentissages techniques
-Année marquée par une **diversité de cours enrichissants** avec des intervenants professionnels.
-
-**Logiciels découverts** :
-- Tableau Software
-- Business Objects
-- Divers langages de programmation
 
 ### Apport de l'alternance chez SNCF
 L'alternance apporte :
@@ -65,8 +57,11 @@ L'alternance apporte :
 ### Choix de poursuite d'études
 Orientation vers une **poursuite d'études** plutôt qu'une insertion professionnelle directe après le BUT.
 
-### Objectif : Master en Géomatique
+### L'un des objectifs de poursuite d'études : Master en Géomatique
 Forte attirance pour le domaine de la **géomatique** → orientation vers un **Master mention Géomatique**.
+
+### Autre objectif de poursuite d'études : Diplôme d'ingénieur data
+Forte attirance pour le domaine de la **data science, big data, machine learning et intelligence artificielle** → orientation vers un **Diplôme d'ingénieur en data science, machine learning et IA**.
 
 ## Comment me contacter
 

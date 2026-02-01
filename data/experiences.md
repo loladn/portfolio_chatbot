@@ -3,7 +3,7 @@
 ## Alternance actuelle chez SNCF Voyageurs
 
 ### Poste et durée
-**Alternante Data Analyst** - Août 2024 à maintenant
+**Alternante Data Analyst** - Août 2024 à août 2026 (en cours)
 
 ### Entreprise
 SNCF Voyageurs - TER Centre Val de Loire, Tours

@@ -2,8 +2,8 @@
 
 ## Projet web Airbnb Paris
 
-### Année de réalisation
-2ème année BUT Science des Données
+<!-- ### Année de réalisation
+2ème année BUT Science des Données -->
 
 ### Objectif du projet
 Visualisation dynamique des logements Airbnb à Paris avec graphiques interactifs
@@ -20,8 +20,8 @@ Informatique, Visualisation de données
 
 ## Projet accidentologie routière France 2023
 
-### Année de réalisation
-2ème année BUT
+<!-- ### Année de réalisation
+2ème année BUT -->
 
 ### Description du projet
 Site web dynamique analysant les accidents corporels en France (2023) via données OpenData
@@ -42,8 +42,8 @@ Informatique, Bases de données, Visualisation
 
 ## Étude SIG implantation McDonald's France
 
-### Année de réalisation
-2ème année BUT
+<!-- ### Année de réalisation
+2ème année BUT -->
 
 ### Contexte du projet SIG
 Projet réalisé en **autonomie complète** pour maîtriser tous les aspects techniques du SIG
@@ -63,8 +63,8 @@ Informatique, SIG, Géomatique
 
 ## Projet Calyxis accidents vie courante
 
-### Année de réalisation
-1ère année BUT (projet final)
+<!-- ### Année de réalisation
+1ère année BUT (projet final) -->
 
 ### Contexte
 Analyse pour **Calyxis**, observatoire des accidents de la vie courante
@@ -88,8 +88,8 @@ Statistiques, Analyse de données, Visualisation
 
 ## Application VBA recrutement football
 
-### Année
-2ème année BUT
+<!-- ### Année
+2ème année BUT -->
 
 ### Objectif application VBA
 Automatisation du processus de recrutement pour section sportive football
@@ -109,8 +109,8 @@ Informatique, Automatisation
 
 ## Étude économique Norvège
 
-### Année
-2ème année BUT
+<!-- ### Année
+2ème année BUT -->
 
 ### Sujet d'étude
 Analyse des importations norvégiennes et prévisions économiques
@@ -130,8 +130,8 @@ Statistiques, Analyse économique
 
 ## Projet échantillonnage région PACA
 
-### Année
-1ère année BUT
+<!-- ### Année
+1ère année BUT -->
 
 ### Objectif statistique
 Étude de population : échantillonnage et estimation pour la région Provence-Alpes-Côte d'Azur
@@ -150,8 +150,8 @@ Statistiques
 
 ## Poster scientifique data visualisation
 
-### Année
-2ème année BUT
+<!-- ### Année
+2ème année BUT -->
 
 ### Événement
 Fête de la science
