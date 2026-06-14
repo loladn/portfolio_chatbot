@@ -41,7 +41,7 @@ def charger_historique(key):
 
 # sidebar
 with st.sidebar:
-    st.image("./img/photo_lola.jpg", width=105)
+    st.image("./img/lola_profil_detoure.jpg", width=105)
     st.header("Lola Dixneuf")
     st.caption("Data Science @ SNCF Voyageurs")
     
